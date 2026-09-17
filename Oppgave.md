@@ -7,3 +7,22 @@ Boka understreker også viktigheten av å kontrollere aggressivitet og bruk av i
 Gjennom aktiv lytting, likeverd, respekt, god møtedisiplin og fokus på felles mål kan prosjektlederen legge grunnlaget for god og effektiv kommunikasjon i prosjektgruppen.
 
 
+
+
+
+
+Håndtering av tidspress og planleggingsfellen
+
+Erling sin utfordring nå er å håndtere tidspresset som følger av at prosjektet skal gjennomføres innen 15 måneder. Det kan høres ut som en god tid, men samtidig vil vi unngå å ikke gå for en altfor detaljert plan med en gang, vi skal balansere planlegging og fleksibilitet, for  denne fasen er avgjørende for å etablere en felles forståelse av prosjektets mål.   
+
+I Erling sitt prosjekt så består prosjektgruppen av mange personer med ulike faglige bakgrunn og forskjellige roller, derfor er det svært viktig og ikke gjennomføre noe uten at mål, forventninger og roller er avklart. For det kan fort skape misforståelser og behov for omarbeid senere. Derfor er det viktig å bruke god tid på oppstarten for å redusere risikoen for problemer og forsinkelser senere i prosjektet. Samtidig må Erling ikke bunde seg for mye til den opprinnelige planen. Et prosjekt som skal gå i 15 måneder kan ha behov for endringer. For å unngå at plan skal behandles som uforanderlig, så er det viktig å unngå en detaljert plan tidlig i prosjektet.  
+
+En måte å oppnå en fin balanse på er å dele prosjektet inn i et tidlig tidsskille og gjennomføre regelmessige evalueringer av fremdrift, risiko og prioriteringer. 
+En sånn plan kan fungere som et styringsverktøy uten å bli behandlet som det endelige. Hvis utover prosjektet ny informasjon viser at en tidligere antakelser eller arbeidsmåter ikke fungerer, bør gruppen være villig til å revurdere dem. Læring innebærer ikke å korrigere handlinger, men også stille spørsmål ved de underliggende antakelsene som handlingene bygger på. Det er teorien om Double-Loop Learning (Argyris 1977) 
+
+For Erling skal ikke dette prosjektet bety å bare be gruppen om å følge planen, men også å regelmessig vurdere om planen fortsatt er hensiktsmessig. Hvis kundens behov endrer seg, tekniske utfordringer oppstår eller at prosjektgruppen får ny kunnskap, bør dette kunne føre til justeringer. Slik at prosjektet får beholde en tydelig retning samtidig som gruppen har mulighet til å lære og tilpasse seg underveis. 
+
+Målet her må derfor ikke være å lage et perfekt og detaljert plan ved prosjektstart, men heller å etablere en realistisk retning med tydelige mål og tidsskiller som kan justeres og vurderes gjennom prosjektperioden. For at Erling skal redusere risikoen for at tidspress fører til forhastede beslutninger eller at gruppen ved prosjektet blir låst til en plan, så må Erling bruke tilstrekkelig tid i oppstartfasen. 
+
+
+
